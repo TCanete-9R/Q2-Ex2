@@ -1,0 +1,29 @@
+* {
+
+}
+
+/*style for body*/
+body {
+	background-color: #E0C4B0;
+}
+
+/*style for container*/
+.container {
+	background-color: lightblue;
+	color: ghostwhite;
+}
+
+/*style for img*/
+image{
+	width: 100px;
+	height: 40px;
+	margin: 20px;
+}
+
+.footer {
+            background-color: lightblue;
+            color: ghostwhite;
+            padding: 20px;
+            text-align: center;
+            margin-top: 20px;
+            border-radius: 10px;
